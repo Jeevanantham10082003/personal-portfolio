@@ -19,7 +19,7 @@ profile.jpg
 
 
 Live Demo
-Visit the website: https://jeevanantham10082003.github.io/portfolio/
+Visit the website:(https://jeevanantham10082003.github.io/personal-portfolio/)
 
 
 Connect with Me
