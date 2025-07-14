@@ -1,8 +1,8 @@
-# Personal Portfolio â€“ Jeeva
+# Personal Portfolio “ Jeeva
 
-ðŸš€ Welcome to my **personal portfolio website** built with HTML, CSS, and JavaScript.
+Welcome to my **personal portfolio website** built with HTML, CSS, and JavaScript.
 
-## ðŸ”¥ Features
+Features
 - Responsive design for mobile and desktop
 - Typing animation showing my roles
 - Social media links (LinkedIn, GitHub, Twitter, etc.)
@@ -19,7 +19,7 @@ profile.jpg
 
 
 Live Demo
-Visit the website: 
+Visit the website: https://jeevanantham10082003.github.io/portfolio/
 
 
 Connect with Me
